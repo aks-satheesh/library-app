@@ -1,1 +1,1 @@
-"public class Book { String title = "Hobbit" }" 
+"public class Book { String title; String author; }" 
